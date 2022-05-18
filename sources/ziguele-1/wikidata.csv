@@ -1,28 +1,25 @@
 item,name,positionItem,position,startDate,endDate,source,sourceDate,psid
-Q112062380,Alexis Gomba,Q112062118,"Minister of Economy, Planning and Cooperation",2001-04-06,2003-03-15,,,Q112062380-D75FFF39-1813-4FFB-9346-7A5EFFB7AB5D
-Q112062381,Andre Latou,Q112062121,Minister of Energy and Mines,1999-11-02,2001-04-06,,,Q112062381-7C711118-85EC-41B2-BD58-9FD7A2444C4E
-Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06,,,Q112062382-7BC9C4AD-87A6-4AA6-A375-DD033AB3C86E
-Q112062385,Antoine Grothe,Q112062139,Minister of Justice,2000-04-17,2001-04-06,,,Q112062385-A933ECE6-6FD2-47CC-85E1-7312AC4D5FB9
-Q112062388,Bernard Yoro,Q112062160,Minister of Youth and Sport,1999-11-02,2001-04-06,,,Q112062388-535C30A1-DF7B-4FA1-BBDB-DEA98A554BF7
-Q112062391,Bruno Vickos,Q112062108,"Minister of Civil Service, Posts and Telecommunications",1999-11-02,2001-04-06,,,Q112062391-9969FCAB-EABA-481D-A438-E566C33C5CF9
-Q112062396,Eric Sorongope,Q112062128,Minister of Finance,2001-04-06,2003-03-15,,,Q112062396-70974082-28A6-48FD-9FA1-6FD8B94E8687
-Q112062399,Francis Albert Ouakanga,Q112062110,Minister of Communications,1999-11-02,2001-04-06,,,Q112062399-A8DDD232-6086-4815-B1E8-FD62A5B715E0
-Q112062400,Gabriel Dote Badekara,Q112062146,Minister of Promotion of Rural Life,2000-04-17,2001-04-06,,,Q112062400-82E79436-6CC2-4FE4-AAFF-B126217BEC06
-Q112062401,Gabriel Jean Edouard Koyambonou,Q112062143,Minister of Posts and Telecommunications,2001-04-06,2003-03-15,,,Q112062401-3C8FE617-D235-4AB8-A303-2754053E266D
-Q112062403,Ibrahim nee Ndoma Francoise,Q112062126,Minister of Family and Social Affairs,2001-04-06,2003-03-15,,,Q112062403-6E90477B-2D56-4BF1-A947-DFFED2B1C026
-Q112062405,Jacob M'Baitadjim,Q112062133,Minister of Industry and Trade,2001-04-06,2003-03-15,,,Q112062405-0254B6FD-7B04-42F1-ACE0-25584CD331C0
-Q112062408,Jean -Jacques Demafouth,Q112062115,Minister of Defence,1999-11-02,2001-08-26,,,Q112062408-658CE0A2-8AF3-4BA0-A897-56A954883DEC
-Q112062409,Jean-Baptiste Koyassambia,Q112062133,Minister of Industry and Trade,1999-11-02,2001-04-06,,,Q112062409-5D0B31A4-5FFA-4B5C-B5AA-9D2DABF9FA95
-Q112062410,Jean-Dominique Ndarata,Q112062160,Minister of Youth and Sport,2001-04-06,2003-03-15,,,Q112062410-BA734F28-D0E6-42B1-9277-640CD85D2CDB
-Q112062415,Laurent Gonbala,Q112062106,Minister of Civil Service and Employment,2001-04-06,2003-03-15,,,Q112062415-361C7847-B0F3-48CC-BB0D-93174FE70DD5
-Q112062424,Michel Docko,Q112062114,Minister of Culture and Relations with the Parliament,2001-04-06,2003-03-15,,,Q112062424-1F80876A-0A34-433D-ACE5-ED28DFE7BF2D
-Q112062428,Nathalie Constance Gounebana,Q112062152,Minister of Tourism,1999-11-02,2001-04-06,,,Q112062428-6569438B-4872-4EC6-9219-954C662CD0BF
-Q112062435,Richard Lakue,Q112062130,Minister of Health and Population,1999-11-02,2001-04-06,,,Q112062435-59860854-9C91-4566-AAD8-A2852250575F
-Q112062436,Salomon Namkosserena,Q112062146,Minister of Promotion of Rural Life,2001-04-06,2003-03-15,,,Q112062436-A0706AB6-6BE3-4669-8B00-A9C961151130
-Q112062440,Theodore Biko,Q112062138,"Minister of Interior, Territorial Administration",2001-04-06,2001-08-31,,,Q112062440-10F4764F-939B-4751-A67E-9A7ECC42A9BF
-Q112062442,Timoleon Mbaikoua,Q112062131,Minister of Higher Education and Scientific Research,1999-11-02,2003-03-15,,,Q112062442-32599035-8024-4CAE-A1FB-E5E2763C6FE0
-Q15844911,Joseph Kalite,Q112062125,"Minister of Equipment, Territorial Development and Town Planning",2000-04-17,2001-04-06,,,Q15844911-34B88242-BA74-4B0F-B38B-8430D5A12C42
-Q1648403,Martin Ziguélé,Q16773091,Prime Minister of the Central African Republic,2001-04-01,2003-03-15,,,Q1648403-C3B1D59C-D7D4-4BE8-A185-2F75A814E22D
-Q1930736,Michel Gbezera-Bria,Q112062145,Minister of Presidential Affairs,1999-11-02,2001-04-06,,,Q1930736-6115A2AD-A9D0-4A8D-9102-69C3DBA6292B
-Q19629676,Éloi Anguimaté,Q112062120,Minister of Education,1999-11-02,2001-04-06,,,Q19629676-F5E007EB-C443-4776-AF37-A42B50E7BAD0
-Q2826508,Agba Otikpo Mézodé,Q18204366,Minister of Foreign Affairs,2001,2003,,,Q2826508-64F8FBF8-CD46-48F4-8D3B-C352AB7D1B82
+Q112062380,Alexis N'Gomba,Q112062118,Ministre du Plan et de la coopération internationale,2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062380-D75FFF39-1813-4FFB-9346-7A5EFFB7AB5D
+Q112062382,André Nalké Dorogo,Q112062121,"Ministre des Mines, de l’Énergie et de l’Hydraulique",2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062382-042768E7-0E45-4083-9A1E-A67026AF5874
+Q112062396,Eric Sorongopé,Q112062128,"Ministre d'État, des Finances et du Budget",2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062396-70974082-28A6-48FD-9FA1-6FD8B94E8687
+Q112062401,Gabriel Jean-Edouard Koyambounou,Q112062143,"Ministre d’État, de la Communication, Postes et Télécommunications, chargé des nouvelles Technologies, de la Culture et de la Francophonie",2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062401-3C8FE617-D235-4AB8-A303-2754053E266D
+Q112062403,Françoise Ibrahim née N'Doma,Q112062126,"Ministre des Affaires sociales, Promotion des Femmes, Jeunes, chargé de la réinsertion des handicapés",2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062403-6E90477B-2D56-4BF1-A947-DFFED2B1C026
+Q112062405,Jacob M'baitadjim,Q112062133,"Ministre du Commerce et Industrie, chargé de la promotion du secteur privé",2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062405-0254B6FD-7B04-42F1-ACE0-25584CD331C0
+Q112062408,Jean-Jacques Démafouth,Q112062115,Ministre de la Défense nationale,1999-11-02,2001-08-26,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062408-658CE0A2-8AF3-4BA0-A897-56A954883DEC
+Q112062410,Jean Dominique N'Darata,Q112062160,Ministre de la Jeunesse et des Sports,2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062410-BA734F28-D0E6-42B1-9277-640CD85D2CDB
+Q112062424,Michel Doko,Q112062114,Ministre chargé des Relations avec le parlement,2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062424-1F80876A-0A34-433D-ACE5-ED28DFE7BF2D
+Q112062428,Constance Nathalie Gounébana,Q112062152,"Ministre des Eaux, Forêts, Chasse, Pêche, Environnement et Tourisme",1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062428-6569438B-4872-4EC6-9219-954C662CD0BF
+Q112062436,Salomon Namkoséréna,Q112062146,Ministre chargé de la Promotion du monde rural,2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062436-A0706AB6-6BE3-4669-8B00-A9C961151130
+Q112062440,Théodore Bikoo,Q112062138,Ministre de l’Intérieur et Sécurité publique,2001-04-06,2001-08-31,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062440-10F4764F-939B-4751-A67E-9A7ECC42A9BF
+Q112062442,Timoléon M'Baikoua,Q112062131,Ministre de l’Éducation nationale et Enseignement supérieur,1999-11-02,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112062442-32599035-8024-4CAE-A1FB-E5E2763C6FE0
+Q112063573,Désiré Péndémou,Q112062124,"Ministre de l’Équipement, Aménagement, Transports, chargé du Désenclavement",2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112063573-145CC060-BBB2-4BC9-9573-8B63D8FF2EB6
+Q112065064,Robert Zana,Q112065196,Ministre délégué à la Sécurité publique,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112065064-655F34DD-5E3D-46C9-8C55-822DA7919C67
+Q112065165,Clément Eregani,Q112065166,Ministre délégué au Plan et coopération internationale,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112065165-DA3E82E3-3A73-4DE6-A166-C257B324EAD7
+Q112065188,Lazare Dokoula,Q112063562,Ministre délégué aux Finances et au Budget,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112065188-E50F033B-0756-4756-B710-A6EDB685285A
+Q112065193,Michel Doyéné,Q112065194,Ministre délégué au Désarmement,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112065193-570424B0-230B-47F4-A790-B5C2D85FA0ED
+Q112065201,Victor Boucher,Q112065202,Ministre délégué aux Affaires étrangères,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q112065201-031853EA-FDFA-472A-BE09-37B0218EE896
+Q15844911,Joseph Kalité,Q112062147,Ministre de la Santé publique et de la Population,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q15844911-F42F77DE-82C7-46C0-BCFE-EE586512C19D
+Q1648403,Martin Ziguélé,Q16773091,"Premier ministre, chef du Gouvernement",2001-04-01,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q1648403-C3B1D59C-D7D4-4BE8-A185-2F75A814E22D
+Q2826508,Agba Otikpo Mézodé,Q18204366,Ministre des Affaires étrangères,2001,2003,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q2826508-64F8FBF8-CD46-48F4-8D3B-C352AB7D1B82
+Q58216808,Laurent Ngon Baba,Q112062106,"Ministre de la Fonction publique, de l’Emploi et de la Prévoyance sociale",2001-04-06,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q58216808-1727C4CC-A1B8-403E-B66D-BCC776DA025D
+Q6756173,Marcel Météfara,Q112062139,Ministre de la Justice,2001-04-06,2001-08-30,https://fr.wikipedia.org/wiki/Gouvernement_Zigu%C3%A9l%C3%A9_I,2022-05-18,Q6756173-F92B0434-20C8-48FC-B6E4-B475C12628C7
