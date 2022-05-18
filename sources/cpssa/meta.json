@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+      "parent": "Q5060273"
+    },
+    "source": {
+        "id":   "Q96743901"
+    }
+}
