@@ -22,12 +22,14 @@ Prime Minister,Félix Moloua,Q88310768,2022-02-07,,male,,,,Félix Moloua
 Minister of Agricultural Modernisation and Development,Pierre Guianza,Q112062433,2003-03-31,2003-12-15,,,,,
 Minister of Agricultural Modernisation and Development,Daniel Emery Dede,Q112062392,2003-12-15,2004-09-02,,,,,
 Minister of Agriculture and Livestock,Daniel Emery Dede,Q112062392,1999-11-02,2000-04-17,,,,,
+Minister of Civil Service and Employment,Godeffroy Mokamanede,Q112063567,1999-11-01,2000-04-16,,,,,
 Minister of Civil Service and Employment,Laurent Gonbala,Q112062415,2001-04-06,2003-03-15,,,,,
 "Minister of Civil Service, Labour and Social Security",Jacques Voti,Q112062406,2003-03-31,2013-03-24,,,,,
 "Minister of Civil Service, Posts and Telecommunications",Bruno Vickos,Q112062391,1999-11-02,2001-04-06,,,,,
 "Minister of Communication, National Reconciliation, Democratic Culture and Promotion of Human Rights",Job Izima,Q112062412,2005-06-19,2013-03-24,,,,,
 Minister of Communications,Francis Albert Ouakanga,Q112062399,1999-11-02,2001-04-06,,,,,
-"Minister of Communications, National Reconciliation and Democratic and Civic Culture",Parfait Mbaye,Q112062430,2003-03-31,2004-09-02,,,,,
+"Minister of Communications, National Reconciliation and Democratic and Civic Culture",Parfait Anicet Mbay,Q108292458,2003-03-31,2004-09-02,male,,,,
+Minister of Culture and Relations with the Parliament,Agba Otikpo Mézodé,Q2826508,1999-11-01,2000-04-16,male,,,,Agba Otikpo Mézodé
 Minister of Culture and Relations with the Parliament,Michel Docko,Q112062424,2001-04-06,2003-03-15,,,,,
 Minister of Defence,Jean -Jacques Demafouth,Q112062408,1999-11-02,2001-08-26,,,,,
 Minister of Defence,Pierre Angoua,Q112062432,2001-08-31,2003-01-15,,,,,
@@ -60,7 +62,7 @@ Minister of Foreign Affairs,Marcel Beti Maras,Q112062419,2003-01-15,2003-03-15,,
 Minister of Foreign Affairs,Jean-Paul Ngoupandé,Q58276,2005,2006,male,1948-12-06,2014-05-04,,Jean-Paul Ngoupandé
 Minister of Foreign Affairs,Côme Zoumara,Q3010597,2006,2008,male,1959,,Côme Zoumara.jpg,Côme Zoumara
 Minister of Foreign Affairs,Dieudonné Kombo Yaya,Q108292457,2008,2009,,,,,
-Minister of Foreign Affairs,Parfait Anicet Mbay,Q108292458,2013,2013,,,,,
+Minister of Foreign Affairs,Parfait Anicet Mbay,Q108292458,2013,2013,male,,,,
 Minister of Foreign Affairs,Charles-Armel Doubane,Q11855176,2013-03-31,2013-06,male,1966-11-12,,Charles-Armel Doubane.jpg,Charles-Armel Doubane
 Minister of Foreign Affairs,Léonie Banga-Bothy,Q27898988,2013-06,2013-06,female,,,,Léonie Banga-Bothy
 Minister of Foreign Affairs,Toussaint Kongo-Doudou,Q108292459,2014,2015,,,,,
@@ -70,6 +72,7 @@ Minister of Foreign Affairs,Sylvie Baïpo-Temon,Q60680031,2018-12-14,,female,,,S
 "Minister of Foreign Affairs, Regional Integration and Francophone Affairs",Abdou Karim Meckassoua,Q112062377,2003-03-31,2003-12-15,,,,,
 Minister of Health and Population,Richard Lakue,Q112062435,1999-11-02,2001-04-06,,,,,
 Minister of Higher Education and Scientific Research,Timoleon Mbaikoua,Q112062442,1999-11-02,2003-03-15,,,,,
+Minister of Housing and Town Planning,Armand Sama,Q112063583,1999-11-01,2000-04-16,,,,,
 Minister of Housing and Town Planning,Abraham Gotobulu,Q112062378,2003-03-31,2005-06-19,,,,,
 Minister of Industry and Trade,Jean-Baptiste Koyassambia,Q112062409,1999-11-02,2001-04-06,,,,,
 Minister of Industry and Trade,Jacob M'Baitadjim,Q112062405,2001-04-06,2003-03-15,,,,,
@@ -79,6 +82,7 @@ Minister of Interior,Joseph Mozoule,Q112062414,2001-08-31,2003-01-15,,,,,
 Minister of Interior,Jacquesson Mazette,Q112062407,2003-01-15,2003-03-15,,,,,
 Minister of Interior and Public Security,Michel-Paulin Bondeboli,Q112062426,2003-03-31,2003-12-15,,,,,
 "Minister of Interior, Territorial Administration",Theodore Biko,Q112062440,2001-04-06,2001-08-31,,,,,
+Minister of Justice,Denis Wangao Kizimale,Q112063576,1999-11-01,2000-04-16,,,,,
 Minister of Justice,Antoine Grothe,Q112062385,2000-04-17,2001-04-06,,,,,
 Minister of Justice,Paul Otto,Q112062431,2005-06-19,2013-03-24,,,,,
 "Minister of Justice, Human Rights and Good Governance",Faustin Baudou,Q112062397,2003-03-31,2003-12-15,,,,,
@@ -102,6 +106,7 @@ Minister of Town Planning and Public Buildings,Andre Nalke-Dorogo,Q112062382,200
 Minister of Trade,Didier Wangué,Q112062395,2004-09-02,2005-06-19,,,,,
 "Minister of Trade, Industry and Private Sector Promotion",Yacinthe Wodobodé,Q20995546,2003-03-31,2003-12-15,female,1954,,,Hyacinthe Wodobodé
 "Minister of Trade, Industry and Private Sector Promotion",Aimé Amoudou,Q112062379,2003-12-15,2004-09-02,,,,,
+Minister of Transport and Civil Aviation,Désiré Pendemon,Q112063573,1999-11-01,2000-04-16,,,,,
 "Minister of Water, Forests and Fisheries",Maurice Yondu,Q112062422,2003-03-31,2003-12-15,,,,,
 "Minister of Water, Forests, Hunting and Fishing",Michel Salle,Q112062425,2003-12-15,2004-09-02,,,,,
 "Minister of Water, Forests, Hunting and Fishing",Jean-Eudes Teya,Q112062411,2005-06-19,2013-03-24,,,,,
@@ -111,6 +116,8 @@ Minister of Youth and Sport,Jean-Dominique Ndarata,Q112062410,2001-04-06,2003-03
 Minister of Youth and Sport,Guy Kolingba,Q112062402,2003-12-15,2004-01-07,,,,,
 Minister of Youth and Sport,Desire Kolingba,Q15713200,2004-01-07,2013-03-24,male,1956-08-19,2021-04-25,,Désiré Kolingba
 "Minister of Youths, Sports, Arts and Culture",Leon Salam,Q112062418,2003-03-31,2003-12-15,,,,,
+Minister Delegate for Finance,Théodore Dabanga,Q112062441,1999-11-01,2000-04-16,,,,,
+Minister Delegate for Relations with the Arab World,Bello Mamadou,Q112063579,1999-11-01,2000-04-16,,,,,
 President of the National Assembly,Luc-Appolinaire Dondon-Konambaye,Q112060228,1999-01-01,2003-03-15,male,,2015-05-20,,
 President of the National Assembly,Nicolas Tiangaye,Q3277446,2003-05-29,2005-06-14,male,1956-09-13,,Nicolas Tiangaye VOA.jpg,Nicolas Tiangaye
 President of the National Assembly,Célestin Gaombalet,Q1150346,2005-06-14,2013-03-26,male,1942-01-01,2017-12-19,CGaombalet.jpg,Célestin Gaombalet
