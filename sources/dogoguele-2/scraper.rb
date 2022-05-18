@@ -12,6 +12,10 @@ class MemberList
     def member_container
       noko.xpath('//h3[contains(., "Ministres")]//following-sibling::ul[1]//li')
     end
+
+    def member_items
+      super.reject { |mem| mem.name.to_s.empty? }
+    end
   end
 
   class Member
