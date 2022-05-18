@@ -1,26 +1,30 @@
 item,name,positionItem,position,startDate,endDate,source,sourceDate,psid
-Q112062381,Andre Latou,Q112062121,Minister of Energy and Mines,1999-11-02,2001-04-06,,,Q112062381-7C711118-85EC-41B2-BD58-9FD7A2444C4E
-Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06,,,Q112062382-586053B5-0B3B-4CAE-900B-3806018567D4
-Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06,,,Q112062382-7BC9C4AD-87A6-4AA6-A375-DD033AB3C86E
-Q112062385,Antoine Grothe,Q112062139,Minister of Justice,2000-04-17,2001-04-06,,,Q112062385-A933ECE6-6FD2-47CC-85E1-7312AC4D5FB9
-Q112062386,Aristide Sokambi,Q112062125,"Minister of Equipment, Territorial Development and Town Planning",1999-11-02,2000-04-17,,,Q112062386-75D9C65F-440C-46F1-8C99-D3B9DB25A4FA
-Q112062388,Bernard Yoro,Q112062160,Minister of Youth and Sport,1999-11-02,2001-04-06,,,Q112062388-535C30A1-DF7B-4FA1-BBDB-DEA98A554BF7
-Q112062391,Bruno Vickos,Q112062108,"Minister of Civil Service, Posts and Telecommunications",1999-11-02,2001-04-06,,,Q112062391-9969FCAB-EABA-481D-A438-E566C33C5CF9
+Q112062381,André Latou,Q112062121,Ministre des Mines et Énergie,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062381-7C711118-85EC-41B2-BD58-9FD7A2444C4E
+Q112062382,André Nalké,Q112062154,Ministre de l’Urbanisme et Edifices publics,2000-04-17,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062382-7BC9C4AD-87A6-4AA6-A375-DD033AB3C86E
+Q112062385,Antoine Grothe,Q112062139,Ministre de la Justice,2000-04-17,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062385-A933ECE6-6FD2-47CC-85E1-7312AC4D5FB9
+Q112062388,Bernard Yoro,Q112062160,Ministre de la Jeunesse et des Sports,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062388-535C30A1-DF7B-4FA1-BBDB-DEA98A554BF7
+Q112062391,Jean Bruno Vickos,Q112062108,Ministre de la Poste et des Télécommunications,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062391-9969FCAB-EABA-481D-A438-E566C33C5CF9
 Q112062392,Daniel Emery Dede,Q112062105,Minister of Agriculture and Livestock,1999-11-02,2000-04-17,,,Q112062392-8C2383BF-745C-43CE-8A73-06930A0A3337
-Q112062399,Francis Albert Ouakanga,Q112062110,Minister of Communications,1999-11-02,2001-04-06,,,Q112062399-A8DDD232-6086-4815-B1E8-FD62A5B715E0
-Q112062400,Gabriel Dote Badekara,Q112062146,Minister of Promotion of Rural Life,2000-04-17,2001-04-06,,,Q112062400-82E79436-6CC2-4FE4-AAFF-B126217BEC06
-Q112062408,Jean -Jacques Demafouth,Q112062115,Minister of Defence,1999-11-02,2001-08-26,,,Q112062408-658CE0A2-8AF3-4BA0-A897-56A954883DEC
-Q112062409,Jean-Baptiste Koyassambia,Q112062133,Minister of Industry and Trade,1999-11-02,2001-04-06,,,Q112062409-5D0B31A4-5FFA-4B5C-B5AA-9D2DABF9FA95
-Q112062421,Maurice Regonessa,Q112062134,Minister of Interior,1999-11-02,2001-04-06,,,Q112062421-26C8F9C7-A685-487E-B0DF-AD8486FFE5BE
-Q112062428,Nathalie Constance Gounebana,Q112062152,Minister of Tourism,1999-11-02,2001-04-06,,,Q112062428-6569438B-4872-4EC6-9219-954C662CD0BF
-Q112062434,Rachel Dea Nambonu,Q112062126,Minister of Family and Social Affairs,1999-11-02,2000-04-17,,,Q112062434-2D9A106E-413B-4A5B-8988-489CC41911EA
-Q112062435,Richard Lakue,Q112062130,Minister of Health and Population,1999-11-02,2001-04-06,,,Q112062435-59860854-9C91-4566-AAD8-A2852250575F
-Q112062442,Timoleon Mbaikoua,Q112062131,Minister of Higher Education and Scientific Research,1999-11-02,2003-03-15,,,Q112062442-32599035-8024-4CAE-A1FB-E5E2763C6FE0
-Q15844911,Joseph Kalite,Q112062125,"Minister of Equipment, Territorial Development and Town Planning",2000-04-17,2001-04-06,,,Q15844911-34B88242-BA74-4B0F-B38B-8430D5A12C42
+Q112062399,Francis Albert Ouakanga,Q112062110,Ministre de la Communication,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062399-A8DDD232-6086-4815-B1E8-FD62A5B715E0
+Q112062400,Gabriel Dote Badekara,Q112062146,Ministre de la Promotion du monde rural,2000-04-17,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062400-82E79436-6CC2-4FE4-AAFF-B126217BEC06
+Q112062408,Jean-Jacques Démafouth,Q112062115,Ministre de la Défense,1999-11-02,2001-08-26,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062408-658CE0A2-8AF3-4BA0-A897-56A954883DEC
+Q112062409,Jean-Baptiste Koyassambia,Q112062133,"Ministre du Commerce, de l’Industrie et de la promotion du secteur privé",1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062409-5D0B31A4-5FFA-4B5C-B5AA-9D2DABF9FA95
+Q112062421,Maurice Regonessa,Q112062134,Minister of Interior,1999-11-02,2000-12-15,,,Q112062421-26C8F9C7-A685-487E-B0DF-AD8486FFE5BE
+Q112062428,Nathalie Constance Gounebana,Q112062152,Ministre du Tourisme,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062428-6569438B-4872-4EC6-9219-954C662CD0BF
+Q112062434,Rachel Dea Nambona,Q112062126,"Ministre des Affaires sociales, Promotion de la famille et des personnes handicapées",1999-11-02,2000-04-17,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062434-2D9A106E-413B-4A5B-8988-489CC41911EA
+Q112062435,Richard Lakoue,Q112062130,Ministre de la Santé publique et de la Population,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062435-59860854-9C91-4566-AAD8-A2852250575F
+Q112062441,Théodore Dabanga,Q112063562,Ministre délégué aux Finances,2000-04-16,2001-04-05,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062441-632F94DF-A44F-4DC7-9E27-CC3A52A2ED69
+Q112062442,Timoléon Mbaikoua,Q112062131,Ministre de l’Enseignement supérieur et Recherche scientifique,1999-11-02,2003-03-15,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112062442-32599035-8024-4CAE-A1FB-E5E2763C6FE0
+Q112063573,Désiré Pendemou,Q112063574,Ministre des Transports et Aviation civile,2000-04-16,2001-04-05,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112063573-32F0C4E1-AAA0-484B-A3DC-2379C695EAF2
+Q112063576,Denis Wangao Kizmalé,Q112062106,Ministre de la Fonction publique et Emploi,2000-04-16,2001-04-05,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112063576-854DB54E-ECD6-43F7-9982-09B763EBE093
+Q112063579,Bello Mamadou,Q112063580,Ministre délégué chargé des relations avec le monde arabe,2000-04-16,2001-04-05,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112063579-ECB7CF41-5BDF-4591-B4BC-5D227A3F6F98
+Q112065064,Robert Zana,Q112065065,"Secrétaire d'État à l'Intérieur, chargé de la Sécurité publique",2000-04-16,2001-04-05,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q112065064-72BD3921-7EF3-43C8-B119-DBD622E371C7
+Q112065071,Théodore Bikoo,Q112062134,Minister of Interior,2000-12-15,2001-04-05,,,Q112065071-9D106E59-F3F3-414D-B2AD-1571500313B7
+Q15844911,Joseph Kalité,Q112062125,"Ministre del’Equipement, de l’Aménagement du territoire et Urbanisme",2000-04-17,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q15844911-34B88242-BA74-4B0F-B38B-8430D5A12C42
 Q1648403,Martin Ziguélé,Q16773091,Prime Minister of the Central African Republic,2001-04-01,2003-03-15,,,Q1648403-C3B1D59C-D7D4-4BE8-A185-2F75A814E22D
-Q1930736,Michel Gbezera-Bria,Q112062145,Minister of Presidential Affairs,1999-11-02,2001-04-06,,,Q1930736-6115A2AD-A9D0-4A8D-9102-69C3DBA6292B
-Q19629676,Éloi Anguimaté,Q112062120,Minister of Education,1999-11-02,2001-04-06,,,Q19629676-F5E007EB-C443-4776-AF37-A42B50E7BAD0
-Q2826508,Agba Otikpo Mézodé,Q18204366,Minister of Foreign Affairs,2001,2003,,,Q2826508-64F8FBF8-CD46-48F4-8D3B-C352AB7D1B82
-Q546278,Anicet-Georges Dologuélé,Q16773091,Prime Minister of the Central African Republic,1999-01-04,2001-04-01,,,Q546278-BD762403-F8DF-449E-A639-A8E45F5F2B3F
+Q1930736,Michel Gbézéra-Bria,Q112062145,Ministre des Affaires présidentielles,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q1930736-6115A2AD-A9D0-4A8D-9102-69C3DBA6292B
+Q19629676,Éloi Anguimaté,Q112062120,Ministre de l’Éducation nationale,1999-11-02,2001-04-06,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q19629676-F5E007EB-C443-4776-AF37-A42B50E7BAD0
+Q2826508,Agba Otikpo Mézodé,Q18204366,"Ministre de la Promotion de la Culture civique, chargé des relations avec le Parlement",2001,2003,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q2826508-64F8FBF8-CD46-48F4-8D3B-C352AB7D1B82
+Q546278,Anicet-Georges Dologuélé,Q16773091,"Premier ministre, chef du Gouvernement, ministre de l'Économie, des Finances, du Plan et de la Coopération internationale",1999-01-04,2001-04-01,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q546278-BD762403-F8DF-449E-A639-A8E45F5F2B3F
 Q6168974,Jean-Baptiste Nouganga,Q112062123,"Minister of Environment, Water, Forests, Hunting and Fisheries",1999-11-02,2000-04-17,,,Q6168974-B12D88D6-37E2-41C4-B639-3E029AF5E542
-Q6756173,Marcel Metefara,Q18204366,Minister of Foreign Affairs,1999,2001,,,Q6756173-EDBEE23F-8784-42A7-8C83-CED4DAC97F3F
+Q6756173,Marcel Météfara,Q18204366,Ministre des Affaires étrangères et Francophonie,1999,2001,https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III,2022-05-18,Q6756173-EDBEE23F-8784-42A7-8C83-CED4DAC97F3F
