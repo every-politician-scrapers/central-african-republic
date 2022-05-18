@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q18289300",
+        "start":  "2000-04-16",
+        "end":    "2001-04-05",
+        "parent": "Q5060273"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Dologu%C3%A9l%C3%A9_III",
+    "lang":   "en"
+}
