@@ -1,16 +1,26 @@
 item,name,positionItem,position,startDate,endDate,source,sourceDate,psid
-Q112062378,Abraham Gotobulu,Q112062132,Minister of Housing and Town Planning,2003-03-31,2005-06-19,,,Q112062378-8CC6344E-CD3D-48E5-896A-49D127B49C7B
-Q112062390,Bruno Dacko,Q112062153,Minister of Tourism and Craft Industry Development,2003-03-31,2005-06-19,,,Q112062390-3B665A0F-8C08-4859-871F-ED7CFB7FBD03
-Q112062393,Daniel Nditifei Boysembe,Q112062116,"Minister of Economy, Finance and Planning",2004-09-02,2005-06-19,,,Q112062393-FA4985CB-7A5E-472F-A57F-1105026456C8
-Q112062395,Didier Wangué,Q112062155,Minister of Trade,2004-09-02,2005-06-19,,,Q112062395-33FF4371-1DEA-495E-BC8C-3711D4731F9D
-Q112062404,Idriss Salao,Q112062144,"Minister of Posts and Telecommunications, New Technologies",2003-03-31,2005-06-19,,,Q112062404-EE28F0A0-C0DF-491C-AE10-41F962D088BC
-Q112062406,Jacques Voti,Q112062107,"Minister of Civil Service, Labour and Social Security",2003-03-31,2013-03-24,,,Q112062406-D2CDCD9B-EBED-4BE1-9375-E90005F28C92
-Q112062427,Mpokomanji Soli,Q112062124,Minister of Equipment and Transport,2003-03-31,2005-06-19,,,Q112062427-C029CEDF-95B9-4033-8F20-106A6A74A095
-Q112062429,Nestor Mamadou Nali,Q112062147,Minister of Public Health and Population,2003-03-31,2005-06-19,,,Q112062429-E55210CA-426C-45A6-94F8-36FDAA6CA46C
-Q112062437,Solange Pagonéndji N'dackala,Q112062127,"Minister of Family, Social Affairs and National Solidarity",2004-09-02,2013-03-24,,,Q112062437-5F894255-883B-4818-8344-EC51030EACC7
-Q112062439,Sylvain Mbutingaye,Q112062121,Minister of Energy and Mines,2003-03-31,2013-03-24,,,Q112062439-0266F264-912B-4DD5-8FD4-076BD0BB49F9
-Q1150346,Célestin Gaombalet,Q16773091,Prime Minister of the Central African Republic,2003-12-12,2005-06-11,,,Q1150346-36CBF25F-3C83-4316-BE51-E42C580C5B42
-Q15713200,Desire Kolingba,Q112062160,Minister of Youth and Sport,2004-01-07,2013-03-24,,,Q15713200-74530FF0-BBD5-444F-9F6D-7C1219E1FD58
+Q108292458,lieutenant-colonel Parfait-Anicet M'Bay,Q112072739,Ministre de l'Agriculture,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q108292458-6428E1C1-F6DA-4989-A8A3-7A74A46CEFDF
+Q112062378,Abraham Ngotto Bouloum,Q112062132,Ministre de la Reconstruction des édifices publics et de l'Urbanisme,2003-03-31,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062378-8CC6344E-CD3D-48E5-896A-49D127B49C7B
+Q112062390,Bruno Dacko,Q112062153,Ministre du Développement du tourisme,2003-03-31,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062390-3B665A0F-8C08-4859-871F-ED7CFB7FBD03
+Q112062393,Daniel N'Ditiféï-Boysémbé,Q112062116,"Ministre du Plan, de l'Économie et des Finances",2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062393-FA4985CB-7A5E-472F-A57F-1105026456C8
+Q112062394,Denis Kossi-Bella,Q112072710,Ministre des Eaux et Forêts,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062394-332CCCB7-AEE9-47EB-BD0B-2D7CB5B8A97B
+Q112062395,Didier Wangué,Q112062155,Ministre du Commerce,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062395-33FF4371-1DEA-495E-BC8C-3711D4731F9D
+Q112062404,Idriss Salao,Q112062144,Ministre des Postes et Télécommunications,2003-03-31,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062404-EE28F0A0-C0DF-491C-AE10-41F962D088BC
+Q112062406,Jacques Boti,Q112062107,Ministre de la Fonction publique,2003-03-31,2013-03-24,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062406-D2CDCD9B-EBED-4BE1-9375-E90005F28C92
+Q112062413,Joseph Kiticki Kouamba,Q112062110,Ministre de la Communication,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062413-04468C5E-C2D7-46F7-AB6F-E275056B3A9A
+Q112062417,Mme Léa Doumta,Q112062139,Ministre de la Justice,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062417-09821369-0F1B-40B2-BFA8-4CC9AA302B28
+Q112062425,colonel Michel Sallé,Q112062134,Ministre de l'Intérieur,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062425-FF87409F-E209-4827-9E22-B5F0629FE2D0
+Q112062427,Sonny M'Pokomandji,Q112062124,Ministre de l'Équipement et des Transports,2003-03-31,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062427-C029CEDF-95B9-4033-8F20-106A6A74A095
+Q112062429,Nestor Mamadou-Nali,Q112062147,Ministre de la Santé publique,2003-03-31,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062429-E55210CA-426C-45A6-94F8-36FDAA6CA46C
+Q112062437,Solange Pagonéndji N'Dackala,Q112062127,"Ministre de la Famille, des Affaires sociales",2004-09-02,2013-03-24,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062437-5F894255-883B-4818-8344-EC51030EACC7
+Q112062439,commandant Sylvain N'Doutingaï,Q112062121,"Ministre de l'Énergie, des Mines et de l'Hydraulique",2003-03-31,2013-03-24,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112062439-0266F264-912B-4DD5-8FD4-076BD0BB49F9
+Q112072409,Zarambaud Assingambi,Q112066081,Minister in charge of the General Secretariat,2004-09-02,2005-06-19,,,Q112072409-41B9CDEE-5D37-4E60-AC95-A92CE8CA08C1
+Q112072410,colonel Jules-Bernard Ouandé,Q112072572,Ministre délégué à l'Intérieur,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112072410-3DEE68D2-0BF3-4CC3-967C-300F807C62ED
+Q112072575,colonel Mohamed Mahadi Marboua,Q112072730,"Ministre délégué au Plan, à l'Économie et aux Finances",2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112072575-0C296433-3CD5-4E03-94C4-EC07492D3391
+Q112072594,Guy Moskit,Q112065202,Ministre délégué aux Affaires étrangères,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112072594-EEFA3B96-263A-477C-B5C2-44C3A4BA8829
+Q112072635,Etienne-Jocelyn Natalo,Q112065515,Ministre délégué à l'Éducation nationale,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q112072635-AB281DC8-D216-4BD3-A9BC-06AD3E6BECB5
+Q1150346,Célestin Gaombalet,Q16773091,"Premier ministre, chef du Gouvernement",2003-12-12,2005-06-11,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q1150346-36CBF25F-3C83-4316-BE51-E42C580C5B42
+Q15713200,Désiré Kolingba,Q112062160,Ministre de la Jeunesse et des Sports,2004-01-07,2013-03-24,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q15713200-74530FF0-BBD5-444F-9F6D-7C1219E1FD58
+Q21965872,Abdoul Karim Meckassoua,Q112072407,Ministre d'État à l’Education nationale,2004-09-02,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q21965872-844D41DB-1E95-462C-A750-D8637DF76FAB
 Q274641,Élie Doté,Q16773091,Prime Minister of the Central African Republic,2005-06-13,2008-01-18,,,Q274641-D9DB1AE9-09E9-46DC-9B07-818B85FECE7E
-Q2959355,Charles Hervé Wénézoui,Q18204366,Minister of Foreign Affairs,2003-12-12,2005-06-19,,,Q2959355-c2b6ecda-4f52-aa0b-abae-e23f0d833cf8
-Q58276,Jean-Paul Ngoupandé,Q18204366,Minister of Foreign Affairs,2005,2006,,,Q58276-A37662C1-070B-4CDA-A192-C3356DB6009B
+Q2959355,Charles Hervé Wénézoui,Q18204366,Ministre des Affaires étrangères,2003-12-12,2005-06-19,https://fr.wikipedia.org/wiki/Gouvernement_Gaombalet_II,2022-05-19,Q2959355-c2b6ecda-4f52-aa0b-abae-e23f0d833cf8
