@@ -1,4 +1,12 @@
 id,name,relationship,relative,relativename
 Q106103476,Anatole Koué,relative,Q310883,André Kolingba
+Q112074280,Cyriaque Samba Panza,spouse,Q15633683,Catherine Samba-Panza
+Q15633683,Catherine Samba-Panza,spouse,Q112074280,Cyriaque Samba Panza
 Q15713200,Desire Kolingba,father,Q310883,André Kolingba
+Q3165388,Jean-Francis Bozizé,father,Q57452,François Bozizé
 Q57452,François Bozizé,child,Q3165388,Jean-Francis Bozizé
+Q6170003,Jean-Serge Bokassa,father,Q162708,Jean-Bedel Bokassa
+Q6170003,Jean-Serge Bokassa,relative,Q3164550,Jean-Barthélémy Bokassa
+Q6170003,Jean-Serge Bokassa,relative,Q4154488,Catherine Denguiadé
+Q6170003,Jean-Serge Bokassa,sibling,Q20965823,Georges Bokassa
+Q6170003,Jean-Serge Bokassa,sibling,Q3359807,Jean-Bédel Bokassa Jr.
