@@ -3,7 +3,10 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::NulllessComparison
+  def columns
+    super + %i[item]
+  end
 end
 
 diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
