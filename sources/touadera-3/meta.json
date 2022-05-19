@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q18414240",
+        "start":  "2011-04-22",
+        "end":    "2013-02-03",
+        "parent": "Q5060273"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Touad%C3%A9ra_III",
+    "lang":   "en"
+}
