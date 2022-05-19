@@ -3,6 +3,7 @@ Q15710848,President
 Q48998251,Vice President
 Q16773091,Prime Minister
 Q112065550,"Minister of State, Special Advisor to the Presidency"
+Q112072568,"Minister of State in charge of National Education"
 Q112066081,"Minister in charge of the General Secretariat"
 Q112062104,Minister of Agricultural Modernisation and Development
 Q112062105,Minister of Agriculture and Livestock
@@ -69,10 +70,12 @@ Q112065202,"Minister Delegate for Foreign Affairs"
 Q112065559,"Minister Delegate for la Francophonie"
 Q112065515,"Minister Delegate for National Education"
 Q112065166,"Minister Delegate for Planning and International Cooperation"
-Q112072402,"Minister Delegate to the Prime Minister"
+Q112072636,"Minister Delegate for Primary and Secondary Education"
 Q112065196,Minister Delegate for Public Security
 Q112063580,"Minister Delegate for Relations with the Arab World"
 Q112066065,"Minister Delegate in charge of Territorial Administration"
+Q112072402,"Minister Delegate to the Prime Minister"
+Q112072572,"Minister Delegate to the Minister of the Interior"
 Q112072411,"Secretary of State for Defence"
 Q112072397,"Secretary of State for Foreign Affairs, Regional Integration and the Francophonie"
 Q112065065,"Secretary of State for the Interior"
