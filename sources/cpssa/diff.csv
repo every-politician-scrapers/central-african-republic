@@ -1,30 +1,46 @@
 @@,item,itemlabel,position,positionlabel,start,end
 ->,Q318433,Abel Goumba,Q16773091,Prime Minister,2003-03-15->2003-03-31,2003-12-11->2003-12-15
 ---,Q2826508,Agba Otikpo Mézodé,Q18204366,Minister of Foreign Affairs,2001-01-01,2003-01-01
----,Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06
----,Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06
-+++,,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-06
+->,Q112062381,Andre Latou,Q112062121,Minister of Energy and Mines,1999-11-02,2001-04-05->2001-04-06
+->,Q112062382,Andre Nalke-Dorogo,Q112062154,Minister of Town Planning and Public Buildings,2000-04-17,2001-04-05->2001-04-06
+->,Q112062383,Andre Toby Kotazo,Q112062148,"Minister of Public Works, Transport, Marginalized Regions and Settlement->Minister of Public Works, Transport, Marginalized Regions and Settlement ",2001-08-31,2003-03-15
 ---,Q15652682,André Nzapayeké,Q16773091,Prime Minister of the Central African Republic,2014-01-25,2014-08-10
 ---,Q546278,Anicet-Georges Dologuélé,Q16773091,Prime Minister of the Central African Republic,1999-01-04,2001-04-01
-->,Q2959355,Charles Wenezoui,Q18204366->Q112062129,"Minister of Foreign Affairs, Regional Integration and Francophone Affairs",2003-01-01->2003-12-15,2005-01-01->2005-06-19
+->,Q112062385,Antoine Grothe,Q112062139,Minister of Justice,2000-04-17,2001-04-05->2001-04-06
+->,Q112062386,Aristide Sokambi,Q112062125,"Minister of Equipment, Territorial Development and Town Planning",1999-11-02,2000-04-16->2000-04-17
+->,Q112062388,Bernard Yoro,Q112062160,Minister of Youth and Sport,1999-11-02,2001-04-05->2001-04-06
+->,Q112062391,Bruno Vickos,Q112062108,"Minister of Civil Service, Posts and Telecommunications",1999-11-02,2001-04-05->2001-04-06
+->,Q2959355,Charles Wenezoui,Q18204366->Q112062129,"Minister of Foreign Affairs, Regional Integration and Francophone Affairs",2003-12-12->2003-12-15,2005-06-19
 ---,Q11855176,Charles-Armel Doubane,Q18204366,Minister of Foreign Affairs,2016-04-11,2018-12-14
 ---,Q11855176,Charles-Armel Doubane,Q18204366,Minister of Foreign Affairs,2013-03-31,2013-06-01
 ->,Q1150346,Célestin Gaombalet,Q16773091,Prime Minister,2003-12-12->2003-12-15,2005-06-11->2005-06-19
 ---,Q3010597,Côme Zoumara,Q18204366,Minister of Foreign Affairs,2006-01-01,2008-01-01
 ---,Q108292457,Dieudonné Kombo Yaya,Q18204366,Minister of Foreign Affairs,2008-01-01,2009-01-01
 ->,Q274641,Elie Doté,Q16773091,Prime Minister,2005-06-13->2005-06-19,2008-01-18->2013-03-24
+->,Q19629676,Eloi Anguimate,Q112062120,Minister of Education,1999-11-02,2001-04-05->2001-04-06
 ---,Q57758,Faustin-Archange Touadéra,Q16773091,Prime Minister of the Central African Republic,2008-01-22,2013-01-17
 ---,Q61889435,Firmin Ngrébada,Q16773091,Prime Minister of the Central African Republic,2019-02-25,2021-06-15
+->,Q112062399,Francis Albert Ouakanga,Q112062110,Minister of Communications,1999-11-02,2001-04-05->2001-04-06
+->,Q112062400,Gabriel Dote Badekara,Q112062146,Minister of Promotion of Rural Life,2000-04-17,2001-04-05->2001-04-06
+->,Q112062407,Jacquesson Mazette,Q112062134,Minister of Interior,2003-01-16->2003-01-15,2003-03-15
+->,Q112062409,Jean-Baptiste Koyassambia,Q112062133,Minister of Industry and Trade,1999-11-02,2001-04-05->2001-04-06
 ->,Q58276,Jean-Paul Ngoupande,Q18204366->Q112062129,"Minister of Foreign Affairs, Regional Integration and Francophone Affairs",2005-01-01->2005-06-19,2006-01-01->2013-03-24
+->,Q15844911,Joseph Kalite,Q112062125,"Minister of Equipment, Territorial Development and Town Planning",2000-04-17,2001-04-05->2001-04-06
 ---,Q21965872,Karim Meckassoua,Q18204366,Minister of Foreign Affairs,2003-01-01,2003-01-01
 ---,Q27898988,Léonie Banga-Bothy,Q18204366,Minister of Foreign Affairs,2013-06-01,2013-06-01
 ---,Q17497078,Mahamat Kamoun,Q16773091,Prime Minister of the Central African Republic,2014-08-10,2016-04-02
 ---,Q6756173,Marcel Metefara,Q18204366,Minister of Foreign Affairs,1999-01-01,2001-01-01
 ---,Q6774698,Martial Beti Marace,Q18204366,Minister of Foreign Affairs,2003-01-01,2003-01-01
 ->,Q1648403,Martin Ziguele,Q16773091,Prime Minister,2001-04-01->2001-04-06,2003-03-15->2001-08-26
+->,Q112062421,Maurice Regonessa,Q112062115,Minister of Defence,2003-01-16->2003-01-15,2003-03-15
+->,Q112062421,Maurice Regonessa,Q112062134,Minister of Interior,1999-11-02,2000-12-15->2001-04-06
+->,Q1930736,Michel Gbezera-Bria,Q112062145,Minister of Presidential Affairs,1999-11-02,2001-04-05->2001-04-06
 ---,Q3277446,Nicolas Tiangaye,Q16773091,Prime Minister of the Central African Republic,2013-02-03,2014-01-10
 ---,Q108292458,Parfait Anicet Mbay,Q18204366,Minister of Foreign Affairs,2013-01-01,2013-01-01
+->,Q112062435,Richard Lakue,Q112062130,Minister of Health and Population,1999-11-02,2001-04-05->2001-04-06
 ---,Q99352338,Samuel Rangba,Q18204366,Minister of Foreign Affairs,2015-01-01,2016-04-11
 ---,Q23729455,Simplice Sarandji,Q16773091,Prime Minister of the Central African Republic,2016-04-02,2019-02-22
 ---,Q60680031,Sylvie Baïpo-Temon,Q18204366,Minister of Foreign Affairs,2018-12-14,
+->,Q112062440,Theodore Biko,Q112062138,"Minister of Interior, Territorial Administration",2001-04-06,2001-08-30->2001-08-31
+---,Q112065071,Théodore Bikoo,Q112062134,Minister of Interior,2000-12-15,
 ---,Q108292459,Toussaint Kongo-Doudou,Q18204366,Minister of Foreign Affairs,2014-01-01,2015-01-01
