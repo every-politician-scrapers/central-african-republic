@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q18289317",
+        "start":  "2006-09-02",
+        "end":    "2008-01-28",
+        "parent": "Q5060273"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Dot%C3%A9_III",
+    "lang":   "en"
+}
