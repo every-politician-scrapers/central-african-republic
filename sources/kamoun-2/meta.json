@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q25377574",
+        "start":  "2015-01-16",
+        "end":    "2015-07-20",
+        "parent": "Q5060273"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Kamoun_II",
+    "lang":   "en"
+}
