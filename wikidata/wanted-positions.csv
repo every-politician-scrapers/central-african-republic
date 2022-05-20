@@ -11,6 +11,7 @@ Q112066081,"Minister in charge of the General Secretariat"
 Q112072739,"Minister of Agriculture"
 Q112062104,Minister of Agricultural Modernisation and Development
 Q112062105,Minister of Agriculture and Livestock
+Q112078172,"Minister of Arts and Culture"
 Q112062106,Minister of Civil Service and Employment
 Q112062107,"Minister of Civil Service, Labour and Social Security"
 Q112062108,"Minister of Civil Service, Posts and Telecommunications"
@@ -20,6 +21,8 @@ Q112062109,"Minister of Communication, National Reconciliation, Democratic Cultu
 Q112062113,"Minister of Communication, National Reconciliation and Democratic and Civic Culture"
 Q112062114,Minister of Culture and Relations with the Parliament
 Q112062115,Minister of Defence
+Q112078146,Minister of Development Projects
+Q112077836,"Minister in charge of Disarmament, Demobilization and Reintegration (DDR)"
 Q112062116,"Minister of Economy, Finance and Planning"
 Q112062118,"Minister of Economy, Planning and Cooperation"
 Q112062119,"Minister of Economy, Planning and International Cooperation"
@@ -42,6 +45,7 @@ Q112074989,"Minister of Habitat and Housing"
 Q112062130,Minister of Health and Population
 Q112062131,Minister of Higher Education and Scientific Research
 Q112062132,Minister of Housing and Town Planning
+Q112078158,"Minister of Human Rights"
 Q112062134,Minister of Interior
 Q112062136,Minister of Interior and Public Security
 Q112062138,"Minister of Interior, Territorial Administration"
@@ -64,6 +68,7 @@ Q112062148,"Minister of Public Works, Transport, Marginalized Regions and Settle
 Q112062149,"Minister of Reconstruction of Public Buildings, Urban Development and Housing"
 Q112062150,Minister of Relations with the Parliament
 Q112073768,"Minister of Rural Development"
+Q112078086,"Minister of Social Economy and Micro-finance"
 Q112062151,Minister of Territorial Administration
 Q112062152,Minister of Tourism
 Q112062153,Minister of Tourism and Craft Industry Development
@@ -113,4 +118,3 @@ Q112065065,"Secretary of State for the Interior"
 Q112072407,"Secretary of State for National Education"
 Q108822572,President of the National Assembly
 Q15710852,Mayor of Bangui
-
