@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q23816935",
+        "start":  "2016-04-11",
+        "end":    "2017-09-12",
+        "parent": "Q5060273"
+    },
+    "source": "https://fr.wikipedia.org/wiki/Gouvernement_Sarandji_I",
+    "lang":   "en"
+}
