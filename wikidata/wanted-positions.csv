@@ -31,6 +31,7 @@ Q112075015,"Minister of Energy and Hydraulics"
 Q112062121,Minister of Energy and Mines
 Q112079696,"Minister of Entrepreneurship, Crafts and the Promotion of SMEs"
 Q112074671,"Minister of Environment and Ecology"
+Q112079977,"Minister of the Environment and Sustainable Development"
 Q112062122,"Minister of Environment, Sustainable Development and National Economy"
 Q112062123,"Minister of Environment, Water, Forests, Hunting and Fisheries"
 Q112074281,"Minister of Equipment and Geographical Opening-up"
@@ -47,13 +48,16 @@ Q112062130,Minister of Health and Population
 Q112062131,Minister of Higher Education and Scientific Research
 Q112062132,Minister of Housing and Town Planning
 Q112078158,"Minister of Human Rights"
+Q112079941,"Minister of Humanitarian Action and National Reconciliation"
 Q112062134,Minister of Interior
 Q112062136,Minister of Interior and Public Security
 Q112062138,"Minister of Interior, Territorial Administration"
 Q112074957,"Minister of International Cooperation, Regional Integration and Francophone Affairs"
 Q112062139,Minister of Justice
 Q112062140,"Minister of Justice, Human Rights and Good Governance"
+Q112080013,"Minister of Labour, Employment and Social Protection"
 Q112062141,Minister of Livestock Development
+Q112079984,"Minister of Modernization and Innovation of Public Service"
 Q112062142,"Minister of National Education, Literacy, Higher Education and Research"
 Q112074678,"Minister of National Security and Public Order"
 Q112062143,Minister of Posts and Telecommunications
@@ -67,10 +71,13 @@ Q112062147,Minister of Public Health and Population
 Q112077216,"Minister of Public Security"
 Q112078709,"Minister of Public Service"
 Q112078719,"Minister of Public Works, Equipment and Regional Planning"
+Q112080095,"Minister of Public Works and Road Maintenance"
 Q112062148,"Minister of Public Works, Transport, Marginalized Regions and Settlement"
 Q112062149,"Minister of Reconstruction of Public Buildings, Urban Development and Housing"
+Q112080081,"Minister in charge of Relations with the Institutions of the Republic"
 Q112062150,Minister of Relations with the Parliament
 Q112073768,"Minister of Rural Development"
+Q112080062,"Minister of Scientific Research and Technological Innovation"
 Q112078523,"Minister of Social Affairs and Humanitarian Action"
 Q112079589,"Minister of Social Affairs and National Reconciliation"
 Q112078086,"Minister of Social Economy and Micro-finance"
@@ -87,6 +94,7 @@ Q112077210,"Minister of Urban Planning"
 Q112072710,"Minister of Water and Forests"
 Q112062157,"Minister of Water, Forests and Fisheries"
 Q112062158,"Minister of Water, Forests, Hunting and Fishing"
+Q112080090,"Minister for Women, Family, and Children"
 Q112062159,"Minister of Works, Civil Aviation and Transport"
 Q112062160,Minister of Youth and Sport
 Q112062161,"Minister of Youths, Sports, Arts and Culture"
