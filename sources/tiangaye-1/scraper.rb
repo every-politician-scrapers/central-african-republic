@@ -39,7 +39,7 @@ class MemberList
     end
 
     def fullname
-      position_and_name.last.gsub(/\(.*?\)/, '').tidy.gsub(/^M\.(\S)/, 'M. \1').gsub('Lieutenant-colonel', 'Lieutenant Colonel')
+      position_and_name.last.gsub(/\(.*?\)/, '').tidy.gsub(/[,;]$/, '').gsub(/^M\.(\S)/, 'M. \1').gsub('Lieutenant-colonel', 'Lieutenant Colonel')
     end
   end
 end

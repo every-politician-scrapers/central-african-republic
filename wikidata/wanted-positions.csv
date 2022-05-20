@@ -14,10 +14,10 @@ Q112062105,Minister of Agriculture and Livestock
 Q112062106,Minister of Civil Service and Employment
 Q112062107,"Minister of Civil Service, Labour and Social Security"
 Q112062108,"Minister of Civil Service, Posts and Telecommunications"
+Q112062110,Minister of Communication
 Q112074270,"Minister of Communication, Citizenship, Dialogue and National Reconciliation"
 Q112062109,"Minister of Communication, National Reconciliation, Democratic Culture and Promotion of Human Rights"
-Q112062110,Minister of Communications
-Q112062113,"Minister of Communications, National Reconciliation and Democratic and Civic Culture"
+Q112062113,"Minister of Communication, National Reconciliation and Democratic and Civic Culture"
 Q112062114,Minister of Culture and Relations with the Parliament
 Q112062115,Minister of Defence
 Q112062116,"Minister of Economy, Finance and Planning"
@@ -37,11 +37,11 @@ Q112062127,"Minister of Family, Social Affairs and National Solidarity"
 Q112062128,Minister of Finance
 Q18204366,Minister of Foreign Affairs
 Q112062129,"Minister of Foreign Affairs, Regional Integration and Francophone Affairs"
+Q112077097,"Minister of Geology, Mining Research and Hydraulics"
 Q112074989,"Minister of Habitat and Housing"
 Q112062130,Minister of Health and Population
 Q112062131,Minister of Higher Education and Scientific Research
 Q112062132,Minister of Housing and Town Planning
-Q112062133,Minister of Industry and Trade
 Q112062134,Minister of Interior
 Q112062136,Minister of Interior and Public Security
 Q112062138,"Minister of Interior, Territorial Administration"
@@ -68,6 +68,7 @@ Q112062152,Minister of Tourism
 Q112062153,Minister of Tourism and Craft Industry Development
 Q112062154,Minister of Town Planning and Public Buildings
 Q112062155,Minister of Trade
+Q112062133,Minister of Trade and Industry
 Q112062156,"Minister of Trade, Industry and Private Sector Promotion"
 Q112063574,"Minister of Transport and Civil Aviation"
 Q112072710,"Minister of Water and Forests"
@@ -90,13 +91,16 @@ Q112063562,"Minister Delegate for Finance"
 Q112065202,"Minister Delegate for Foreign Affairs"
 Q112065559,"Minister Delegate for la Francophonie"
 Q112074260,"Minister Delegate in charge of the Guichet Unique"
+Q112077100,"Minister Delegate for Land Reform"
 Q112075027,"Minister Delegate for Mines"
+Q112077047,"Minister Delegate for National Defence"
 Q112065515,"Minister Delegate for National Education"
 Q112072730,"Minister Delegate for Planning, Economy and Finance"
 Q112065166,"Minister Delegate for Planning and International Cooperation"
 Q112072636,"Minister Delegate for Primary and Secondary Education"
 Q112065196,Minister Delegate for Public Security
 Q112063580,"Minister Delegate for Relations with the Arab World"
+Q112077106,"Minister Delegate for Rural Development"
 Q112066065,"Minister Delegate in charge of Territorial Administration"
 Q112072402,"Minister Delegate to the Prime Minister"
 Q112072572,"Minister Delegate to the Minister of the Interior"

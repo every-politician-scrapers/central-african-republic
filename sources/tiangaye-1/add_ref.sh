@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-wikidata_rows=$(qsv search -i $1 wikidata.csv)
+wikidata_rows=$(qsv search -u -i $1 wikidata.csv)
 wikidata_count=$(printf "%s" "$wikidata_rows" | grep -c "^")
 if [[ $wikidata_count != 2 ]]
 then
@@ -10,7 +10,7 @@ then
 fi
 item=$(echo $wikidata_rows | qsv select item | qsv behead)
 
-scraped_rows=$(qsv search -i $1 scraped.csv)
+scraped_rows=$(qsv search -u -i $1 scraped.csv)
 scraped_count=$(printf "%s" "$scraped_rows" | grep -c "^")
 if [[ $scraped_count != 2 ]]
 then
