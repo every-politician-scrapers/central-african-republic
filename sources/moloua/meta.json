@@ -1,0 +1,13 @@
+{
+    "jurisdiction": {
+        "name": "Central African Republic",
+        "id": "Q929"
+    },
+    "cabinet": {
+        "id":     "Q112059981",
+        "start":  "2022-02-07",
+        "parent": "Q5060273"
+    },
+    "source": "https://oubanguimedias.com/2022/02/11/centrafrique-pourquoi-le-maintien-de-tous-les-ministres-dondra-dans-le-gouvernement-de-felix-moloua/",
+    "lang":   "en"
+}
