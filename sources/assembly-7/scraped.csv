@@ -1,4 +1,4 @@
-constituency,name,party
+constituency,name,partyLabel
 1er arrondissement,Henri-Matie Dondra,MCU
 7e arrondissement,Christian Limbio Tekpe,Indépendant
 Mbaïki 3,Hassan Akhras,Indépendant
@@ -22,7 +22,7 @@ Paoua 4,Percus Kette,MLPC
 Bambouti,Bernard Gbissigui Anioue,KNK
 Bayanga,Gomina Pampali née Monganga David Bernadette,UNADER
 2e Arrondissement 1,Follot Gabriel Mairie Raoul,RDC
-2e arrondissement 2,Mathurin Massikini ,RDC
+2e arrondissement 2,Mathurin Massikini,RDC
 3e arrondissement 3,Rachel Yassindali,Indépendante
 4e arrondissement 1,Ephrem Dominique Yandocka,ITA
 4e arrondissement 2,Louis Roi Nguehoroum,URCA

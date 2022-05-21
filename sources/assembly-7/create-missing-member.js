@@ -10,7 +10,7 @@ String.prototype.toTitleCase = function() {
   });
 
   // leave as lower-case
-  lowers = ['Da', 'De', 'Dos'];
+  lowers = ['Da', 'De', 'Dos', 'Née'];
   for (i = 0, j = lowers.length; i < j; i++)
     str = str.replace(new RegExp('\\s' + lowers[i] + '\\s', 'g'), 
       function(txt) {
@@ -50,7 +50,7 @@ module.exports = (label,party,gender) => {
 
   return {
     type: 'item',
-    labels: { en: label.toTitleCase(), pt: label.toTitleCase() },
+    labels: { en: label.toTitleCase(), fr: label.toTitleCase() },
     descriptions: { en: 'Central African politician' },
     claims: claims,
   }
