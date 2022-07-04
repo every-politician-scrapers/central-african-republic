@@ -5,7 +5,11 @@ require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
-    super - %i(arealabel partylabel) + %i[item psid]
+    super - %i(arealabel) + %i[item psid]
+  end
+
+  def wikidata_csv_options
+    { converters: [->(v) { v.to_s.gsub('SÉ', 'Indep.') }] }
   end
 end
 
