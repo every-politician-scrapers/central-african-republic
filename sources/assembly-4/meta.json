@@ -1,0 +1,23 @@
+{
+    "position": "Q21295977",
+    "term": {
+        "id":       "Q112889989",
+        "start":    "2005-06-03",
+        "end":      "2009-09-30",
+        "election": "Q5060289"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "http://webs.ono.com/juanfandos/parliament.htm",
+        "P577": "2011-01-24",
+        "P1065": "https://web.archive.org/web/20120206032323/http://webs.ono.com/juanfandos/parliament.htm",
+        "P2960": "2012-02-06",
+        "P1476": {
+            "text": "Parliament of the Central African Republic",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "Central African politician"
+    }
+}
