@@ -1,0 +1,108 @@
+{
+  "title": "Sylvie Baïpo-Temon",
+  "pageID": 59709555,
+  "categories": [
+    "Living people",
+    "BNP Paribas people",
+    "Foreign ministers of the Central African Republic",
+    "Central African Republic women diplomats",
+    "Female foreign ministers",
+    "Year of birth missing (living people)",
+    "Women government ministers of the Central African Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sylvie Baïpo-Temon is a Central African politician who has served as the Minister of Foreign Affairs of the Central African Republic since 14 December 2018.",
+              "links": [
+                {
+                  "text": "Central African",
+                  "type": "internal",
+                  "page": "Central African Republic"
+                },
+                {
+                  "text": "Minister of Foreign Affairs of the Central African Republic",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Central African Republic)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sylvie Baïpo-Temon"
+                ]
+              }
+            },
+            {
+              "text": "She replaced Charles-Armel Doubane, who is regarded as being too pro-Western, as President Faustin-Archange Touadéra has recently made an effort to increase ties to Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Charles-Armel Doubane"
+                },
+                {
+                  "type": "internal",
+                  "page": "Faustin-Archange Touadéra"
+                }
+              ]
+            },
+            {
+              "text": "She formerly worked as a financial analyst at BNP Paribas since 2003 and has no previous diplomatic experience.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BNP Paribas"
+                }
+              ]
+            },
+            {
+              "text": "In July 2022, Sylvie Baïpo-Temon was ordered by the French tax authorities to pay unpaid taxes in the amount of €18,000."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Sylvie_Baïpo-Temon.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Sylvie_Ba%C3%AFpo-Temon.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Sylvie_Ba%C3%AFpo-Temon.jpg",
+          "caption": "Sylvie Baïpo-Temon, 2019",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central African politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

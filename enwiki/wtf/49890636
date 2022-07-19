@@ -1,0 +1,99 @@
+{
+  "title": "Jean Willybiro-Sako",
+  "pageID": 49890636,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of the Central African Republic",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jean Willybiro-Sako is a politician in the Central African Republic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central African Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jean Willybiro-Sako"
+                ]
+              }
+            },
+            {
+              "text": "He was the Minister of State for Higher Education and Scientific Research from April 2011 to January 2013."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Jean_Willybiro-Sako_(2014).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jean_Willybiro-Sako_(2014).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jean_Willybiro-Sako_(2014).jpg",
+          "caption": "Jean Willybiro-Sako",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Jean Willybiro-Sako"
+          ],
+          "date": "May 2016",
+          "topic": "gov",
+          "template": "expand french"
+        },
+        {
+          "date": "May 2016",
+          "template": "blp sources"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "centralafricanrepublic-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "willybirosako2015.com",
+            "links": [
+              {
+                "text": "willybirosako2015.com",
+                "type": "external",
+                "site": "https://web.archive.org/web/20160326025912/http://willybirosako2015.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

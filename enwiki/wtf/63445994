@@ -1,0 +1,195 @@
+{
+  "title": "Félix Moloua",
+  "pageID": 63445994,
+  "categories": [
+    "Living people",
+    "Finance ministers",
+    "Government ministers of the Central African Republic",
+    "Year of birth missing (living people)",
+    "Prime Ministers of the Central African Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Félix Moloua is a Central African Republic politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central African Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Félix Moloua"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of Planning, Economy and Cooperation of Central African Republic."
+            },
+            {
+              "text": "In February 2022, Félix Moloua was appointed Prime Minister of the Central African Republic."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central African Republic politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Félix Moloua"
+          },
+          "office": {
+            "text": "Prime Minister of the Central African Republic",
+            "links": [
+              {
+                "text": "Prime Minister of the Central African Republic",
+                "type": "internal",
+                "page": "List of heads of government of the Central African Republic"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 February 2022"
+          },
+          "president": {
+            "text": "Faustin-Archange Touadéra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Faustin-Archange Touadéra"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Henri-Marie Dondra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Henri-Marie Dondra"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://tabc.org.tn/FITA/speaker/felix-moloua/",
+          "title": "Félix MOLOUA",
+          "last": "oui-prod.com",
+          "date": "21 January 2020",
+          "website": "FITA",
+          "language": "fr-FR",
+          "access-date": "22 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.africahotnews.com/?idnews=826106",
+          "title": "RepubliqueCentrafricaine - Reconstruction post-crise, Félix Moloua: \" Le Fonds Bekou a permis de répondre aux besoins de nos populations au lendemain de la crise aiguë que le pays a traversé \"",
+          "website": "news.africahotnews.com",
+          "language": "fr",
+          "access-date": "22 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Bonny",
+          "first": "Aurore",
+          "date": "2022-02-07",
+          "title": "Central African Republic appoints new prime minister",
+          "url": "https://www.aa.com.tr/en/africa/central-african-republic-appoints-new-prime-minister/2496288",
+          "access-date": "2022-02-08",
+          "website": "www.aa.com.tr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "African Development Bank (AfDB), Ex-Officio Member of the Board of Governors",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African Development Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Henri-Marie Dondra",
+          "template": "s-bef"
+        },
+        {
+          "list": [
+            "Prime Minister of the Central African Republic"
+          ],
+          "template": "nowr"
+        },
+        {
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "carpms"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "centralafricanrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}
