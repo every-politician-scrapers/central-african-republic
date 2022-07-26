@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of heads of government of the Central African Republic"
+      ],
+      "stated_as": "Prime Minister of the Central African Republic"
+    },
+    "P580": "2008-01-22",
+    "P1365": {
+      "links": [
+        "Élie Doté"
+      ],
+      "stated_as": "Élie Doté"
+    },
+    "P582": "2013-01-17",
+    "P1366": {
+      "links": [
+        "Nicolas Tiangaye"
+      ],
+      "stated_as": "Nicolas Tiangaye"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of the Central African Republic"
+      ],
+      "stated_as": "8th President of the Central African Republic"
+    },
+    "P580": "2016-03-30",
+    "P1365": {
+      "links": [
+        "Catherine Samba-Panza"
+      ],
+      "stated_as": "Catherine Samba-Panza"
+    }
+  }
+]
